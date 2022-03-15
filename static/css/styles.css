@@ -1,0 +1,20 @@
+body {
+    background-color : #FAFAFA;
+}
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+span i:first-child{
+    color: #E9ECE9;
+}
+
+label {
+    display: block;
+}
+
+input, textarea {
+    display: block;
+    width:100%;
+    margin-bottom:16px;
+}
